@@ -1,0 +1,40 @@
+.navBorda{
+    padding: 4px;
+    background-color:white;
+}
+
+.navItem{
+    padding: 0px 10px;
+}
+
+.espacoLogin{
+    padding: 10px 0px;
+}
+
+.corContainer{
+    background: white;
+    border-radius: 5px;
+}
+
+.estiloContainer{
+    padding: 30px;
+}
+
+.estiloCadastro{
+    padding: 50px;
+}
+
+.borderColor{
+    border-color: #0E7769;
+    color: #0E7769;
+}
+
+.centralizaImagem{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+body {
+  background-color:#0E7769;
+}

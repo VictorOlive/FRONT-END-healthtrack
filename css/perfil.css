@@ -1,0 +1,46 @@
+.navBorda{
+    padding: 4px;
+    background-color:white;
+}
+
+.navItem{
+    padding: 0px 10px;
+}
+
+.corContainer{
+    background: white;
+    border-radius: 20px;
+}
+
+.estiloContainer{
+    padding: 30px;
+}
+
+.estiloCadastro{
+    padding: 50px;
+}
+
+.borderColor{
+    border-color: #0E7769;
+    color: #0E7769;
+}
+
+.centralizaImagem{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+h5 {
+    font-size: clamp(1.25em, 0.3em + 3vw, 1.4em);
+}
+
+body {
+    background-image: url(../img/bgperfil.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color:#0E7769;
+    width: 100vw;
+    height: 100vh;
+}
